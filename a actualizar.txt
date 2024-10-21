@@ -1,0 +1,5 @@
+Fottprints
+	Bornera de tornillos
+	Res 1/4w (7.62 - 10.12 - vertical)
+	Res 1/8w (7.62 - 10.12 - vertical)
+	Diodo keep out
